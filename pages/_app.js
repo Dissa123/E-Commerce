@@ -12,6 +12,7 @@ import "../styles/font-awesome.min.css";
 import "../styles/style.css";
 import "../styles/file.css";
 import "bootstrap/dist/css/bootstrap.css";
+import "../styles/dropFile.css"
 
 export default function App({
   Component,
